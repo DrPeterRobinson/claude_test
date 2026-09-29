@@ -1,0 +1,5 @@
+# Networked work time tracker
+
+It is very useful, particularly in commercial environments, to keep track of how much time has been spent on a particular project. This is particularly important where an individual may work on several projects concurrently, but needs to charge each customer only for the time spent on a specific project. There are many applications already on the market which do this, but they often suffer from the same defects: they require too much input from the user (and so end up not being used), and they do not cope with a user working in two different locations on the same project.
+
+The aim of this project is to develop software which will require as little effort as possible from the user, but will be capable of tracking the time spent on multiple projects across multiple computers. It will also be necessary to use the data collected to prepare reports and bills. Ideally, the software will also be able to manage the projects of multiple users (or multiple users on each project).
