@@ -1,0 +1,1 @@
+Using the project brief in the file "project_brief.md" and referring to the plans in the project definition document, write code for the project time tracker application, so that it can be run locally without a separate server.

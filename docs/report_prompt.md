@@ -1,0 +1,1 @@
+Using the project brief in the file "project_brief.md", and referring to the report specification in "final_report_brief.md", write a report for the networked time tracker application, documenting the code, design decisions and other aspects fully.
